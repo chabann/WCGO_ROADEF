@@ -33,3 +33,7 @@ print('\nAdvanced usage:')
 print('Problem solved in %f milliseconds' % solver.wall_time())
 print('Problem solved in %d iterations' % solver.iterations())
 
+print('\nAdvanced usage:')
+print('Problem solved in %f milliseconds' % solver.wall_time())
+print('Problem solved in %d iterations' % solver.iterations())
+
